@@ -1,4 +1,4 @@
-#### read GCI guidelines
+#### Read GCI guidelines
 #### Select projects:
 * [ ] publiclab/image-sequencer
 
@@ -16,4 +16,6 @@
 
 * [x] publiclab/simple-data-grapher
 
-## Period of unavailability mention
+#### Period of unavailability mention
+#### Create FTO issues
+#### Understand the projects properly
