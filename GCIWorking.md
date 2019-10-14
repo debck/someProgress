@@ -14,7 +14,7 @@
 
 * [ ] publiclab/plots2 
 
-* [x] publiclab/simple-data-grapher
+* [ ] publiclab/simple-data-grapher
 
 #### Period of unavailability mention
 #### Create FTO issues
