@@ -10,7 +10,7 @@
 
 * [ ] publiclab/Leaflet.DistortableImage 
 
-* [ ] publiclab/mapknitter
+* [x] publiclab/mapknitter
 
 * [ ] publiclab/plots2 
 
