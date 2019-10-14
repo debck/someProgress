@@ -2,7 +2,7 @@
 #### Select projects:
 * [x] publiclab/image-sequencer
 
-* [x] publiclab/inline-markdown-editor 
+* [x] publiclab/inline-markdown-editor (not sure ....less issues)
 
 * [ ] publiclab/leaflet-blurred-location 
 
