@@ -1,6 +1,6 @@
 #### Read GCI guidelines
 #### Select projects:
-* [ ] publiclab/image-sequencer
+* [x] publiclab/image-sequencer
 
 * [x] publiclab/inline-markdown-editor 
 
