@@ -19,3 +19,16 @@
 #### Period of unavailability mention
 #### Create FTO issues
 #### Understand the projects properly
+
+
+
+## Tasks Created
+* https://github.com/publiclab/Leaflet.DistortableImage/issues/382
+* https://github.com/publiclab/simple-data-grapher/issues/98
+* https://github.com/publiclab/simple-data-grapher/issues/97
+* https://github.com/publiclab/plots2/issues/6435 (**PUBLISHED**)
+
+## Other's Task Mentoring
+
+* https://github.com/publiclab/image-sequencer/issues/1288 (**PUBLISHED**)
+* Create a new Icon Pack for Image-Sequencer modules
