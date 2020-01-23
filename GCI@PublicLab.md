@@ -1,7 +1,7 @@
 ## GCI 2019 [Dec 2 to Jan 24]
 ####  Repo:
-* [x] publiclab/image-sequencer
-* [x] publiclab/simple-data-grapher
+* [x] publiclab/image-sequencer - 16
+* [x] publiclab/simple-data-grapher - 13
 
 > No of Interactions: 48
 
