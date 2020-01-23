@@ -23,9 +23,9 @@
 * https://github.com/publiclab/simple-data-grapher/issues/119
 * https://github.com/publiclab/simple-data-grapher/issues/118
 * https://github.com/publiclab/simple-data-grapher/issues/122
-* Install simple-data-grapher on local machine
 * https://github.com/publiclab/plots2/issues/6435
 * https://github.com/publiclab/Leaflet.DistortableImage/issues/382
+* https://github.com/publiclab/PublicLab.Editor/issues/341
 
 
 #### Task mentored  [44]
@@ -72,7 +72,7 @@
 * Review Pull request in Image-Sequencer for Week 1
 * Review Pull request in Simple-data-grapher for Week 1
 * https://github.com/publiclab/spectral-workbench.js/issues/146
-* Link not found
+* https://github.com/publiclab/PublicLab.Editor/issues/341
 * Link not found
 
 
