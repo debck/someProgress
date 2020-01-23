@@ -3,8 +3,11 @@
 * [x] publiclab/simple-data-grapher
 
 > No of Interactions: 48
+
 > Available tasks to be more claimed: 23
+
 > Pending Reviews: 0
+
 > Instances: 129
 
 #### Tasks Created
