@@ -14,10 +14,18 @@
 > Students: 127
 
 #### Tasks Created
-* https://github.com/publiclab/Leaflet.DistortableImage/issues/382
 * https://github.com/publiclab/simple-data-grapher/issues/98
 * https://github.com/publiclab/simple-data-grapher/issues/97
+* https://github.com/publiclab/simple-data-grapher/issues/105
+* https://github.com/publiclab/simple-data-grapher/issues/106
+* https://github.com/publiclab/simple-data-grapher/issues/107
+* https://github.com/publiclab/simple-data-grapher/issues/112
+* https://github.com/publiclab/simple-data-grapher/issues/119
+* https://github.com/publiclab/simple-data-grapher/issues/118
+* https://github.com/publiclab/simple-data-grapher/issues/122
+* Install simple-data-grapher on local machine
 * https://github.com/publiclab/plots2/issues/6435
+* https://github.com/publiclab/Leaflet.DistortableImage/issues/382
 
 
 #### Task mentored  [44]
