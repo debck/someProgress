@@ -1,22 +1,11 @@
-#### Read GCI guidelines
-#### Select projects:
+####  Repo:
 * [x] publiclab/image-sequencer
-
-* [ ] publiclab/inline-markdown-editor (not sure ....less issues)
-
-* [ ] publiclab/leaflet-blurred-location 
-
-* [ ] publiclab/leaflet-environmental-layers 
-
-* [ ] publiclab/Leaflet.DistortableImage 
-
-* [ ] publiclab/mapknitter
-
-* [ ] publiclab/plots2 
-
 * [x] publiclab/simple-data-grapher
 
-
+> No of Interactions: 48
+> Available tasks to be more claimed: 23
+> Pending Reviews: 0
+> Instances: 129
 
 #### Tasks Created
 * https://github.com/publiclab/Leaflet.DistortableImage/issues/382
