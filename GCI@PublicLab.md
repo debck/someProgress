@@ -17,7 +17,7 @@
 * https://github.com/publiclab/plots2/issues/6435 (**PUBLISHED**)
 
 
-#### Task mentoring  [44]
+#### Task mentored  [44]
 * https://github.com/publiclab/PublicLab.Editor/blob/master/README.md#Installation
 * https://github.com/publiclab/image-sequencer/issues/1306
 * https://github.com/publiclab/image-sequencer/issues/1311
