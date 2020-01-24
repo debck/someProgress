@@ -28,7 +28,7 @@
 * https://github.com/publiclab/image-sequencer/pull/1388
 * https://github.com/publiclab/image-sequencer/pull/1387
 * https://github.com/publiclab/image-sequencer/pull/1326
-
+* https://github.com/publiclab/image-sequencer/pull/1566
 
 #### Tasks Created
 * https://github.com/publiclab/simple-data-grapher/issues/98
