@@ -13,6 +13,23 @@
 
 > Students: 127
 
+#### PR reviewed during GCI
+
+* https://github.com/publiclab/image-sequencer/pull/1539
+* https://github.com/publiclab/image-sequencer/pull/1513
+* https://github.com/publiclab/PublicLab.Editor/pull/361
+* https://github.com/publiclab/simple-data-grapher/pull/121
+* https://github.com/publiclab/simple-data-grapher/pull/120
+* https://github.com/publiclab/simple-data-grapher/pull/117
+* https://github.com/publiclab/simple-data-grapher/pull/110
+* https://github.com/publiclab/simple-data-grapher/pull/115
+* https://github.com/publiclab/simple-data-grapher/pull/114
+* https://github.com/publiclab/simple-data-grapher/pull/113
+* https://github.com/publiclab/image-sequencer/pull/1388
+* https://github.com/publiclab/image-sequencer/pull/1387
+* https://github.com/publiclab/image-sequencer/pull/1326
+
+
 #### Tasks Created
 * https://github.com/publiclab/simple-data-grapher/issues/98
 * https://github.com/publiclab/simple-data-grapher/issues/97
