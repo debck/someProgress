@@ -101,7 +101,7 @@
 
 > May 4, 2020
 
->  *PublicLab** was part of the **Digital Impact Alliance (DIAL) at UN Foundation** as a suborg.
+>  **PublicLab** is part of the **Digital Impact Alliance (DIAL) at UN Foundation** as a suborg.
 
 #### Proposals Review 
 
