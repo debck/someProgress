@@ -1,3 +1,6 @@
+# Working with PublicLab
+  * (Google Code In 2019)[## GCI 2019 [Dec 2 to Jan 24]]
+
 ## GCI 2019 [Dec 2 to Jan 24]
 ####  Repo:
 * [x] publiclab/image-sequencer - 16
