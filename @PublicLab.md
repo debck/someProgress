@@ -9,9 +9,7 @@
 * [x] publiclab/image-sequencer - 16
 * [x] publiclab/simple-data-grapher - 13
 
-> No of Interactions: 48
-
-> Available tasks to be more claimed: 23
+> No of Interactions: 50
 
 > Pending Reviews: 0
 
@@ -101,6 +99,10 @@
 
 ## GSOC 2020
 
-> 
+> May 4, 2020
+
+>  *PublicLab** was part of the **Digital Impact Alliance (DIAL) at UN Foundation** as a suborg.
+
+#### Proposals Review 
 
 
