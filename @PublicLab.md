@@ -11,8 +11,6 @@
 
 > No of Interactions: 50
 
-> Pending Reviews: 0
-
 > Instances: 135
 
 
