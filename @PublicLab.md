@@ -30,6 +30,7 @@
 * https://github.com/publiclab/image-sequencer/pull/1387
 * https://github.com/publiclab/image-sequencer/pull/1326
 * https://github.com/publiclab/image-sequencer/pull/1566
+* `...may be more`
 
 #### Tasks Created
 * https://github.com/publiclab/simple-data-grapher/issues/98
@@ -44,7 +45,7 @@
 * https://github.com/publiclab/plots2/issues/6435
 * https://github.com/publiclab/Leaflet.DistortableImage/issues/382
 * https://github.com/publiclab/PublicLab.Editor/issues/341
-
+* `...may be more`
 
 #### Task mentored 
 * https://github.com/publiclab/PublicLab.Editor/blob/master/README.md#Installation
@@ -98,6 +99,10 @@
 > May 4, 2020
 
 >  **PublicLab** is part of the **Digital Impact Alliance (DIAL) at UN Foundation** as a suborg.
+
+####  Repo:
+
+* [x] publiclab/PublicLab.Editor
 
 #### Proposals Review Period
 * Read all the proposals under org.
